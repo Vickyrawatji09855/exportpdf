@@ -1,0 +1,10 @@
+<table class="table">
+<thead>
+  <tr>
+    <th scope="col">ID</th>
+    <th scope="col">First Name</th>
+    <th scope="col">Last Name</th>
+    <th scope="col">Email</th>
+  </tr>
+</thead>
+<tbody> <tr><th scope="row">1</th><td>mohit</td><td>vdfdfdf</td><td>shanti</td></tr> <tr><th scope="row">2</th><td>neeraj</td><td>vdfdfdf</td><td>fdfdfg@232</td></tr> <tr><th scope="row">3</th><td>kamal</td><td>vdfdfdf</td><td>fdfdfg@232</td></tr> <tr><th scope="row">4</th><td>kunal</td><td>vdfdfdf</td><td>fdfdfg@232</td></tr> <tr><th scope="row">5</th><td>nitin</td><td>sir</td><td>sir@12123</td></tr> <tr><th scope="row">6</th><td>manju</td><td>babu</td><td>popat</td></tr> <tr><th scope="row">7</th><td>vicky</td><td>rawat</td><td>vicky@123</td></tr> <tr><th scope="row">8</th><td>vikram</td><td>dfd</td><td>fdfdfg@232</td></tr> <tr><th scope="row">9</th><td>karan</td><td>dfd</td><td>fdfdfg@232</td></tr> <tr><th scope="row">10</th><td>arjun</td><td>erwerw</td><td>lolu</td></tr> <tr><th scope="row">11</th><td>sheetal</td><td>erwerw</td><td>akbar</td></tr></tbody></table></div></body></html>
